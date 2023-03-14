@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\Studia\Sem. 1\PP\Projekt_2\Projekt_Jan_Krawczyk\main.cpp(180,63): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 56 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  szablon2vs19.vcxproj -> C:\Users\Dell\Desktop\Studia\Sem. 1\PP\Projekt_2\Projekt_Jan_Krawczyk\Release\szablon2vs19.exe

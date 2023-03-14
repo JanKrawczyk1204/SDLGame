@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\Studia\Sem. 1\PP\Projekt_2\Projekt_Jan_Krawczyk\main.cpp(180,63): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  szablon2vs19.vcxproj -> C:\Users\Dell\Desktop\Studia\Sem. 1\PP\Projekt_2\Projekt_Jan_Krawczyk\Debug\szablon2vs19.exe
